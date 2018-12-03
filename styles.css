@@ -1,6 +1,391 @@
-.container{
-	width: 500px; 
-	height: 500px;
-	}
+
+
+
+
+.header{
 	
+	border-style: solid;
+    border-width: 3px;
+    border-color: #009051;
+    padding: 25px;
+}
+
+.header .headerpic{
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}
+
+a:link {
+    text-decoration: #009051;
+    color: #009051;
+}
+
+a:visited {
+    text-decoration: #009051;
+    color: #009051;
+}
+
+a:hover {
+    text-decoration: #009051;
+    color: #009051;
+}
+
+a:active {
+    text-decoration: #009051;
+    color: #009051;
+}
+
+h2{
+	color:#009051;
+}
+
+h3{
+	color:#009051;
+}
+
+.aboutus {
+	position: absolute;
+	top: 4%;
+	right: 110px;
+	color: #009051;
+	font-weight: bold;
+}
+
+.location {
+	position: absolute;
+	top: 4%;
+	right: 30px;
+	color: #009051;
+	font-weight: bold;
+}
+
+.mainabout {
+	position: absolute;
+	top: 4%;
+	right: 190px;
+	color: #009051;
+	font-weight: bold;
+}
+
+.mainlocation {
+	position: absolute;
+	top: 4%;
+	right: 110px;
+	color: #009051;
+	font-weight: bold;
+}
+
+.signout{
+	position: absolute;
+	top: 4%;
+	right: 30px;
+	color: #009051;
+	font-weight: bold;
+}
+
+.home{
+	position: absolute;
+	top: 4%;
+	right: 270px;
+	color: #009051;
+	font-weight: bold;
+}
+
+.sub{
+	position: absolute;
+	background-color: #D9F9A5;
+	top: 120%;
+	color: #009051;
+	border-style: solid;
+    border-width: 3px;
+    border-color: #D9F9A5;
+    padding: 15px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #D9F9A5;
+   color: #009051;
+   
+}
+
+.midway {
+   position: absolute;
+   left: 0;
+   top: 100%;
+   width: 100%;
+   height: 35%;
+   background-color: #6A8D73;
+     
+}
+
+.inner{
+	position: absolute;
+   left: 0;
+   top: 10%;
+   color: #ffffff;
+   font-size: 25px;
+   text-align: center;
+}
+.contact{
+	position: absolute;
+	right:30px;
+	top: 120%;
+	text-align: right;
+}
+img.main {
+ 	border-radius: 25px;
+}
+
+.leftlogo{
+	position: absolute;
+	left: 1%;
+	top: 30%;
+}
+
+.rightlogo{
+	position: absolute;
+	right: 1%;
+	top: 30%;
+}
+
+img.sidelogo{
+	border-radius: 50%;
+	border-style: dashed;
+    border-width: 2px;
+    border-color: #009051;
+}
+
+.happyfamily{
+	position: absolute;
+	left: 1%;
+	top: 20%;
+}
+
+.nicehouse{
+	position: absolute;
+	left: 1%;
+	top: 55%;
+}
+.nicecar{
+	position: absolute;
+	right: 1%;
+	top: 20%;
+}
+
+.retirement{
+	position: absolute;
+	right: 1%;
+	top: 55%;
+}
+
+.finance{
+	position: absolute;
+	left: 28%;
+	top: 25%;
+}
+
+.financeword{
+	position: absolute;
+	left: 37%;
+	top: 28%;
+	text-shadow: 3px 3px #009051;
+    font-size: 40px;
+    color:#ffffff;
+}
+
+
+.investment{
+	position: absolute;
+	left: 28%;
+	top: 40%;
+}
+
+.investword{
+	position: absolute;
+	left: 37%;
+	top: 43%;
+	text-shadow: 3px 3px #009051;
+    font-size: 40px;
+    color:#ffffff;
+}
+
+.loan{
+	position: absolute;
+	left: 28%;
+	top: 55%;
+}
+
+.loanword{
+	position: absolute;
+	left: 41%;
+	top: 58%;
+	text-shadow: 3px 3px #009051;
+    font-size: 40px;
+    color:#ffffff;
+}
+
+.saving{
+	position: absolute;
+	left: 28%;
+	top: 70%;
+}
+
+.savingword{
+	position: absolute;
+	left: 34%;
+	top: 73%;
+	text-shadow: 3px 3px #009051;
+    font-size: 40px;
+    color:#ffffff;
+}
+
+.response{
+	position: absolute;
+	left: 25%;
+	top: 84%;
+	text-shadow: 3px 3px #BBCEA8;
+    font-size: 45px;
+    color:#009051;
+}
+  				
+
+.newuser{
+	position:absolute;
+	right: 5%;
+	top: 50%;
+	color: #009051;
+	font-weight: bold;
+}			
+
+			
+#signup{
+	position:absolute;
+  	top:15%;
+  	right:38%;
+  	width:250px;
+   	border-radius: 25px;
+    border: 3px solid #009051;
+    padding: 40px; 
+    
+    height: 425px; 
+    color: #009051;
+    font-weight: bold;
+}
+
+.leftmain{
+	position:absolute;
+  	top:25%;
+  	left:1%;
+  	width:250px;
+   	border-radius: 25px;
+    border: 3px solid #009051;
+    padding: 40px; 
+   
+    height: 315px; 
+    color: #009051;
+    font-weight: bold;
+}
+
+.rightmain{
+	position:absolute;
+  	top:25%;
+  	right:1%;
+  	width:250px;
+   	border-radius: 25px;
+    border: 3px solid #009051;
+    padding: 40px; 
+  
+    height: 315px; 
+    color: #009051; 
+    font-weight: bold;
+}			
+			
+
+#mainInput{
+	width: 250;
+
+
+}
+
+#mainForm{
+	position:absolute;
+  	top:35%;
+  	right:3%;
+  	width:250px;
+   	border-radius: 25px;
+    border: 3px solid #009051;
+    padding: 20px; 
+    width: 295px;
+    height: 75px; 
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#mainPic {
 	
+    margin-top: 3.5%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #009051; 
+}
+
+#button{
+ 	background-color: #009051;
+ 	color: white;
+  	border: none;
+  	width: 10px:
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    padding: 8px;
+}
+td{
+text-align: left;
+}
+
+
+tr:nth-child(even){background-color: #F4F4F8}
+
+th {
+    background-color: #009051;
+    color: white;
+    text-align: center;
+}
+
+.explaination{
+	position:absolute;
+	left: 5%;
+	top: 45%;
+	color: #ffffff;
+}
+
+.locationsection{
+	position: absolute;
+	left:1%;
+	top: 15%;
+	
+}
+
+.map {
+	position: absolute;
+	left:100%;
+	top: 0%;	
+}
+
+.headaddress{
+	position: absolute;
+	left:0%;
+	top: 120%;
+	font-weight: bold;
+	
+}
